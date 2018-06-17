@@ -133,7 +133,6 @@ class AddExperience extends Component {
                   value="Submit"
                   className="btn btn-info btn-block mt-4"
                 />
-                <div style={{ marginBottom: 70 }} />
               </form>
             </div>
           </div>

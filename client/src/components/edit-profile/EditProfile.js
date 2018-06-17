@@ -238,7 +238,6 @@ class CreateProfile extends Component {
                   className="btn btn-info btn-block mt-4"
                 />
               </form>
-              <div style={{ marginBottom: 70 }} />
             </div>
           </div>
         </div>
